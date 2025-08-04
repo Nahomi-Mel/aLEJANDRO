@@ -1,5 +1,5 @@
 <?php
-// Datos de conexión (ajusta según tu servidor)
+// Datos de conexión BORRA ÉSTO
 $servername = "sql309.infinityfree.com";
 $username   = "if0_38973681";
 $password   = "a2YUPxdN0w8";
