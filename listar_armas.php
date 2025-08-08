@@ -36,9 +36,9 @@ $resultado = $conn->query($sql);
             <th>ID</th> <!-- Nueva columna ID -->
             <th>Nombre</th>
             <th>Descripción</th>
-            <th>Precio</th>
             <th>Tipo de Bala</th>
             <th>Categoría</th>
+            <th>Precio</th>
             <!-- No hay columna de acciones -->
         </tr>
         <?php while ($fila = $resultado->fetch_assoc()): ?>
@@ -54,4 +54,5 @@ $resultado = $conn->query($sql);
     </table>
 </body>
 </html>
+
 
