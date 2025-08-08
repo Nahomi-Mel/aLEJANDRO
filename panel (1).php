@@ -136,7 +136,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         <?php else: ?>
             <h2>Catálogo de Armas</h2>
-            <a href="comprar.php" class="boton">🛒 Comprar Armas</a>
+            <a href="comprar(1).php" class="boton">🛒 Comprar Armas</a>
         <?php endif; ?>
 
         <a href="cerrar_sesion.php" class="boton" style="margin-top: 20px;">🚪 Cerrar Sesión</a>
