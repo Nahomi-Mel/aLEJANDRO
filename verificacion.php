@@ -36,7 +36,9 @@ $id = isset($_GET['id']) ? intval($_GET['id']) : 0;
         <h1>Proceso de Verificación</h1>
         <p>Gracias por tu interés en adquirir un arma. Antes de proceder con la entrega, revisaremos tus antecedentes penales.</p>
         <p>Recibirás una notificación cuando tu solicitud haya sido procesada.</p>
+//agregar algo por si quiere comprar más de un armaaaaaaa
         <a href="comprar.php">⬅ Volver al Catálogo</a>
     </div>
 </body>
 </html>
+
