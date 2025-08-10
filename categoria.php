@@ -42,6 +42,8 @@ $resultado = $stmt->get_result();
     <meta charset="UTF-8">
     <title>Armas - <?php echo htmlspecialchars(ucfirst($tipo)); ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+ /*Todo lo que tenga que ver con el style, ponerlo en otro archivo tipo .css*/
     <style>
         body {
             font-family: Georgia, serif;
